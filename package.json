@@ -1,0 +1,33 @@
+{
+  "name": "echo-zero",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "test": "tsx --test src/*.test.ts",
+    "preview": "vite preview --host 127.0.0.1",
+    "format": "prettier --write src vite.config.ts",
+    "assets": "node scripts/build-assets.mjs"
+  },
+  "dependencies": {
+    "@react-three/drei": "10.7.0",
+    "@react-three/fiber": "9.3.0",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "three": "0.180.0",
+    "zustand": "5.0.8"
+  },
+  "devDependencies": {
+    "@types/node": "24.5.0",
+    "@types/react": "19.1.13",
+    "@types/react-dom": "19.1.9",
+    "@types/three": "0.180.0",
+    "@vitejs/plugin-react": "5.0.3",
+    "prettier": "^3.9.8",
+    "tsx": "4.20.5",
+    "typescript": "5.9.2",
+    "vite": "7.3.6"
+  }
+}

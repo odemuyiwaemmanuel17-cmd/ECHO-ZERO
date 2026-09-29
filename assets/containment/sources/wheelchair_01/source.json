@@ -1,0 +1,27 @@
+{
+  "include": {
+    "textures/wheelchair_01_diff_1k.jpg": {
+      "size": 126137,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wheelchair_01/wheelchair_01_diff_1k.jpg",
+      "md5": "8f3f7ef28ebe675f20fefb8fbafb8ac3"
+    },
+    "textures/wheelchair_01_nor_gl_1k.jpg": {
+      "size": 210295,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wheelchair_01/wheelchair_01_nor_gl_1k.jpg",
+      "md5": "256c08e1dcf3a937b7d66a845bd21f04"
+    },
+    "wheelchair_01.bin": {
+      "size": 1183752,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/wheelchair_01/wheelchair_01.bin",
+      "md5": "419414082dc40cae13c9141d8922a218"
+    },
+    "textures/wheelchair_01_arm_1k.jpg": {
+      "size": 225508,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wheelchair_01/wheelchair_01_arm_1k.jpg",
+      "md5": "4c4d70458a7848b9d4f60d0b2ec84d2c"
+    }
+  },
+  "size": 2702,
+  "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wheelchair_01/wheelchair_01_1k.gltf",
+  "md5": "53901a369849ad929d030279a3d1f719"
+}

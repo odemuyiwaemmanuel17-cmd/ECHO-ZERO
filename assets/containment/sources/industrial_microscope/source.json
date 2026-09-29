@@ -1,0 +1,27 @@
+{
+  "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/industrial_microscope/industrial_microscope_1k.gltf",
+  "md5": "472c893cc84e3f7e9f76454aba612e42",
+  "size": 4270,
+  "include": {
+    "textures/industrial_microscope_nor_gl_1k.jpg": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/industrial_microscope/industrial_microscope_nor_gl_1k.jpg",
+      "md5": "2e3d69f1bf720fa98bd3c76708a0b471",
+      "size": 566472
+    },
+    "textures/industrial_microscope_diff_1k.jpg": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/industrial_microscope/industrial_microscope_diff_1k.jpg",
+      "md5": "d98e729ea074d94a3a3e34050bc68a94",
+      "size": 508322
+    },
+    "textures/industrial_microscope_arm_1k.jpg": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/industrial_microscope/industrial_microscope_arm_1k.jpg",
+      "md5": "16d17224f4750da5f0c99c6ac8e1771b",
+      "size": 775071
+    },
+    "industrial_microscope.bin": {
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/industrial_microscope/industrial_microscope.bin",
+      "md5": "be2a9782f02eabcc9a02f67dd7c6fd33",
+      "size": 602404
+    }
+  }
+}
